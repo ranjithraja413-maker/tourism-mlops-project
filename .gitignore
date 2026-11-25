@@ -1,0 +1,12 @@
+# local experiment outputs (the pipeline regenerates these in CI)
+mlruns/
+mlartifacts/
+mlflow.log
+local_artifacts/
+Xtrain.csv
+Xtest.csv
+ytrain.csv
+ytest.csv
+tourism_project/data/data_registry.json
+__pycache__/
+.ipynb_checkpoints/
