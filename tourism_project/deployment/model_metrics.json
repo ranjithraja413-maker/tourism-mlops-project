@@ -23,6 +23,6 @@
     "test_f1": 0.8328,
     "test_roc_auc": 0.9679
   },
-  "mlflow_run_id": "23183faeeb614a1eb53aad1411f1bbd3",
-  "trained_at_utc": "2026-11-25T08:54:51+00:00"
+  "mlflow_run_id": "3edfbb49814b4c7a8eca64ee30486f38",
+  "trained_at_utc": "2026-11-27T09:49:10+00:00"
 }
